@@ -16,4 +16,5 @@ However it turned out that I was the one having to correct and teach ChatGPT mat
 
 ## Chapter 1 Exercises
 
-[5a](https://chatgpt.com/share/6ce350be-d4be-4bb7-8eb0-4e7cbc5a341b): Wrongly interpreted A only if B as B → A, even though it should be A → B
+* [5a](https://chatgpt.com/share/6ce350be-d4be-4bb7-8eb0-4e7cbc5a341b): Wrongly interpreted A only if B as B → A, even though it should be A → B
+* [5e](https://chatgpt.com/share/99392bf9-0405-4dc7-8b9d-a7514e170c3b): Correct answer, but wrong when explaining about the property of exponent to use
