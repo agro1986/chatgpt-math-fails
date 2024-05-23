@@ -16,6 +16,6 @@ However it turned out that I was the one having to correct and teach ChatGPT mat
 
 ## Chapter 1 Exercises
 
-* [4](https://chatgpt.com/share/4c1c1419-97d4-469d-94ca-651db0a48586): Explanation is correct but final conclusion not thorough. Says a → d and e, but doesn't realize that d and e each also implies the others
+* [4](https://chatgpt.com/share/4c1c1419-97d4-469d-94ca-651db0a48586): Thinking is correct but final conclusion not thorough. Says a → d and e, but doesn't realize that d and e each also implies the others
 * [5a](https://chatgpt.com/share/6ce350be-d4be-4bb7-8eb0-4e7cbc5a341b): Wrongly interpreted A only if B as B → A, even though it should be A → B
 * [5e](https://chatgpt.com/share/99392bf9-0405-4dc7-8b9d-a7514e170c3b): Correct answer, but wrong when explaining about the property of exponent to use
