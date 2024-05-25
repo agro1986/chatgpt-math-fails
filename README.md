@@ -14,8 +14,14 @@ However it turned out that I was the one having to correct and teach ChatGPT mat
 
 # A Concise Introduction to Pure Mathematics 4th edition by Martin Liebeck
 
-## Chapter 1 Exercises
+## Chapter 1 Exercises Solution Fail
 
 * [1.4](https://chatgpt.com/share/4c1c1419-97d4-469d-94ca-651db0a48586): Thinking is correct but final conclusion not thorough. Says a → d and e, but doesn't realize that d and e each also implies the others
 * [1.5.a](https://chatgpt.com/share/6ce350be-d4be-4bb7-8eb0-4e7cbc5a341b): Wrongly interpreted A only if B as B → A, even though it should be A → B
 * [1.5.e](https://chatgpt.com/share/99392bf9-0405-4dc7-8b9d-a7514e170c3b): Correct answer, but wrong when explaining about the property of exponent to use
+
+# Introduction to Linear Algebra 6th edition by Gilbert Strang
+
+## Chapter 1 Exercises Solution Fail
+
+* [1.1.1](https://chatgpt.com/share/293546e0-18f3-4ba5-98ea-f18f5697651b): Silently divides by 0. From d = mb, makes a wrong conclusion that d or b must be 0.
