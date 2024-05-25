@@ -15,7 +15,7 @@ However it turned out that I was the one having to correct and teach ChatGPT mat
 ## Recommendations
 
 * If you are a student, you need to critically check ChatGPT's answers. It can still be useful to give you pointers in the right direction,
-  such as asking "How do I prove x?"
+  such as asking "How do I prove x?" but you still need to check all details of the answer.
 * If you are training LLMs, having a high-quality data of textbook problems and their correct solutions for training seems to be a low hanging fruit.
 
 # A Concise Introduction to Pure Mathematics 4th edition by Martin Liebeck
