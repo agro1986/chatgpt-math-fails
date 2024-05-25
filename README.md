@@ -10,7 +10,7 @@ However it turned out that I was the one having to correct and teach ChatGPT mat
 * Memory and custom instructions are turned off.
 * No extra prompting such as "think step by step".
 * When an exercise asks for a bunch of independent questions (such as "prove the statements a, b, and c"),
-  I ask the questions separately (such as "prove the statement a").
+  I might ask the questions separately (such as "prove the statement a").
 
 # A Concise Introduction to Pure Mathematics 4th edition by Martin Liebeck
 
