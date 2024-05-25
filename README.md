@@ -12,6 +12,12 @@ However it turned out that I was the one having to correct and teach ChatGPT mat
 * When an exercise asks for a bunch of independent questions (such as "prove the statements a, b, and c"),
   I might ask the questions separately (such as "prove the statement a").
 
+## Recommendations
+
+* If you are a student, you need to critically check ChatGPT's answers. It can still be useful to give you pointers in the right direction,
+  such as asking "How do I prove x?"
+* If you are training LLMs, having a high-quality data of textbook problems and their correct solutions for training seems to be a low hanging fruit.
+
 # A Concise Introduction to Pure Mathematics 4th edition by Martin Liebeck
 
 ## Chapter 1 Exercises Solution Fail
