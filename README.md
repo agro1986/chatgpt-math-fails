@@ -31,3 +31,4 @@ However it turned out that I was the one having to correct and teach ChatGPT mat
 ## Chapter 1 Exercises Solution Fail
 
 * [1.1.1](https://chatgpt.com/share/293546e0-18f3-4ba5-98ea-f18f5697651b): Silently divides by 0. From d = mb, makes a wrong conclusion that d or b must be 0.
+* [1.1.3.c](https://chatgpt.com/share/e605ac11-6023-4e9f-9b60-1fccdb241c62): Arithmetic fail when doing Gaussian Elimination. 1/2 x 2 becomes 0.
