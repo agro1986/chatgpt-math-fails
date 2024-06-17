@@ -26,6 +26,7 @@ However it turned out that I was the one having to correct and teach ChatGPT mat
 * [1.5.a](https://chatgpt.com/share/6ce350be-d4be-4bb7-8eb0-4e7cbc5a341b): Wrongly interpreted A only if B as B → A, even though it should be A → B
 * [1.5.e](https://chatgpt.com/share/99392bf9-0405-4dc7-8b9d-a7514e170c3b): Correct answer, but wrong when explaining about the property of exponent to use
 * [1.8](https://chatgpt.com/share/bb445c4e-ffd7-41b6-a28d-65857d693dfe): States wrongly that if sqrt(n) = m for a composite n, then any non-trivial factor of n is less than or equal m. The correct qualifier should be "at least one of the factors"
+* [1.9.c](https://chatgpt.com/share/8c8112da-0de8-4365-b98c-8d9e5f12c44a): The final answer is correct, but it commits early into trying to prove the wrong statement so it goes into a long rambling before finally coming to the correct conclusion.
 
 # Introduction to Linear Algebra 6th edition by Gilbert Strang
 
