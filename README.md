@@ -27,6 +27,7 @@ However it turned out that I was the one having to correct and teach ChatGPT mat
 * [1.5.e](https://chatgpt.com/share/99392bf9-0405-4dc7-8b9d-a7514e170c3b): Correct answer, but wrong when explaining about the property of exponent to use
 * [1.8](https://chatgpt.com/share/bb445c4e-ffd7-41b6-a28d-65857d693dfe): States wrongly that if sqrt(n) = m for a composite n, then any non-trivial factor of n is less than or equal m. The correct qualifier should be "at least one of the factors"
 * [1.9.c](https://chatgpt.com/share/8c8112da-0de8-4365-b98c-8d9e5f12c44a): The final answer is correct, but it commits early into trying to prove the wrong statement so it goes into a long rambling before finally coming to the correct conclusion.
+* Tested up to 1.9
 
 # Introduction to Linear Algebra 6th edition by Gilbert Strang
 
@@ -35,3 +36,4 @@ However it turned out that I was the one having to correct and teach ChatGPT mat
 * [1.1.1](https://chatgpt.com/share/293546e0-18f3-4ba5-98ea-f18f5697651b): Silently divides by 0. From d = mb, makes a wrong conclusion that d or b must be 0.
 * [1.1.3.c](https://chatgpt.com/share/e605ac11-6023-4e9f-9b60-1fccdb241c62): Arithmetic fail when doing Gaussian Elimination. 1/2 * 2 becomes 0.
 * [1.1.8](https://chatgpt.com/share/60cdd1b3-28f6-4b46-8f4f-c9eaefa1e2c4): Skipped the 1st question and directly jumped to the 2nd.
+* Tested up to 1.1.8
