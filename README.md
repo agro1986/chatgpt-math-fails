@@ -40,6 +40,11 @@ However it turned out that I was the one having to correct and teach ChatGPT mat
 
 # A Walk Through Combinatorics 5th edition by Miklós Bóna
 
+## Chapter 1 Quick Check Solution Fail
+
+* [1.1.3](https://chatgpt.com/share/0293c1c3-e8e3-498f-a700-03c09eea7112): Brings up the pidgeonhole principle while the setup has pidgeons < holes
+* Tested up to 1.1.3
+
 ## Chapter 1 Exercises Solution Fail
 
-* Tested up to 1.1 quick check 1
+
