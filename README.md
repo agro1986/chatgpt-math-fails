@@ -37,3 +37,9 @@ However it turned out that I was the one having to correct and teach ChatGPT mat
 * [1.1.3.c](https://chatgpt.com/share/e605ac11-6023-4e9f-9b60-1fccdb241c62): Arithmetic fail when doing Gaussian Elimination. 1/2 * 2 becomes 0.
 * [1.1.8](https://chatgpt.com/share/60cdd1b3-28f6-4b46-8f4f-c9eaefa1e2c4): Skipped the 1st question and directly jumped to the 2nd.
 * Tested up to 1.1.8
+
+# A Walk Through Combinatorics 5th edition by Miklós Bóna
+
+## Chapter 1 Exercises Solution Fail
+
+* Tested up to 1.1 quick check 1
