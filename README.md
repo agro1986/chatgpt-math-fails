@@ -36,7 +36,8 @@ However it turned out that I was the one having to correct and teach ChatGPT mat
 * [1.1.1](https://chatgpt.com/share/293546e0-18f3-4ba5-98ea-f18f5697651b): Silently divides by 0. From d = mb, makes a wrong conclusion that d or b must be 0.
 * [1.1.3.c](https://chatgpt.com/share/e605ac11-6023-4e9f-9b60-1fccdb241c62): Arithmetic fail when doing Gaussian Elimination. 1/2 * 2 becomes 0.
 * [1.1.8](https://chatgpt.com/share/60cdd1b3-28f6-4b46-8f4f-c9eaefa1e2c4): Skipped the 1st question and directly jumped to the 2nd.
-* Tested up to 1.1.8
+* [1.1.11](https://chatgpt.com/share/1223a00c-d565-44a5-a981-472cf1cef6fc): Found the correct vertices but cannot draw the parallelogram correctly.
+* Tested up to 1.1.11
 
 # A Walk Through Combinatorics 5th edition by Miklós Bóna
 
