@@ -1,5 +1,7 @@
 # User
 
+(IMAGE)
+
 a twelve clock vectors: all lengths = 1.
 
 What is the sum V of the twelve vectors that go from the center of a clock to the hours 1:00, 2:00, ..., 12:00?
