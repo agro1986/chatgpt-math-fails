@@ -38,13 +38,14 @@ However it turned out that I was the one having to correct and teach ChatGPT mat
 * [1.1.8](https://chatgpt.com/share/60cdd1b3-28f6-4b46-8f4f-c9eaefa1e2c4): Skipped the 1st question and directly jumped to the 2nd.
 * [1.1.11](https://chatgpt.com/share/1223a00c-d565-44a5-a981-472cf1cef6fc): Found the correct vertices but cannot draw the parallelogram correctly.
 * [1.1.14.a](): Gave a wrong model for a clock hand's coordinate. With the wrong model, 3:00 will point upwards.
+* [1.1.14.b](): Established θ_h = πh/6, but then calculated θ_2 = 2π/12.
 * Tested up to 1.1.14
 
 # A Walk Through Combinatorics 5th edition by Miklós Bóna
 
 ## Chapter 1 Quick Check Solution Fail
 
-* [1.1.3](https://chatgpt.com/share/0293c1c3-e8e3-498f-a700-03c09eea7112): Brings up the pidgeonhole principle while the setup has pidgeons < holes
+* [1.1.3](https://chatgpt.com/share/0293c1c3-e8e3-498f-a700-03c09eea7112): Brings up the pidgeonhole principle while the setup has pidgeons < holes.
 * Tested up to 1.1.3
 
 ## Chapter 1 Exercises Solution Fail
