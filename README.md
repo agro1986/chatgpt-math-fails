@@ -12,6 +12,7 @@ However it turned out that I was the one having to correct and teach ChatGPT mat
 * When an exercise asks for a bunch of independent questions (such as "prove the statements a, b, and c"),
   I might ask the questions separately (such as "prove the statement a").
 * "HARD" label means that even after giving hints about what is wrong, the LLM still has difficulty revising its answer.
+* ChatGPT chats with images cannot be shared. For those chats, I will link to a document in this repo where I copy pasted the chat.
 
 ## Recommendations
 
@@ -40,7 +41,7 @@ However it turned out that I was the one having to correct and teach ChatGPT mat
 * [1.1.11](https://chatgpt.com/share/1223a00c-d565-44a5-a981-472cf1cef6fc): (HARD) Found the correct vertices but cannot draw the parallelogram correctly.
 * [1.1.14.a](https://github.com/agro1986/chatgpt-math-fails/blob/main/logs/introduction_to_linear_algebra_strang_1.1.14.a.md): (HARD) Gave a wrong model for a clock hand's coordinate. With the wrong model, 3:00 will point upwards.
 * [1.1.14.b](https://github.com/agro1986/chatgpt-math-fails/blob/main/logs/introduction_to_linear_algebra_strang_1.1.14.a.md): Established θ_h = πh/6, but then calculated θ_2 = 2π/12.
-* [1.1.15](): (HARD) First failed to understand the problem, then understood the problem but modeled it using the wrong formula.
+* [1.1.15](https://github.com/agro1986/chatgpt-math-fails/blob/main/logs/introduction_to_linear_algebra_strang_1.1.15.md): (HARD) First failed to understand the problem, then understood the problem but modeled it using the wrong formula.
 * Tested up to 1.1.15
 
 # A Walk Through Combinatorics 5th edition by Miklós Bóna
