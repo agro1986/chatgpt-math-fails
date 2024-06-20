@@ -11,6 +11,7 @@ However it turned out that I was the one having to correct and teach ChatGPT mat
 * No extra prompting such as "think step by step".
 * When an exercise asks for a bunch of independent questions (such as "prove the statements a, b, and c"),
   I might ask the questions separately (such as "prove the statement a").
+* "HARD" label means that even after giving hints about what is wrong, the LLM still has difficulty revising its answer.
 
 ## Recommendations
 
@@ -36,10 +37,11 @@ However it turned out that I was the one having to correct and teach ChatGPT mat
 * [1.1.1](https://chatgpt.com/share/293546e0-18f3-4ba5-98ea-f18f5697651b): Silently divides by 0. From d = mb, makes a wrong conclusion that d or b must be 0.
 * [1.1.3.c](https://chatgpt.com/share/e605ac11-6023-4e9f-9b60-1fccdb241c62): Arithmetic fail when doing Gaussian Elimination. 1/2 * 2 becomes 0.
 * [1.1.8](https://chatgpt.com/share/60cdd1b3-28f6-4b46-8f4f-c9eaefa1e2c4): Skipped the 1st question and directly jumped to the 2nd.
-* [1.1.11](https://chatgpt.com/share/1223a00c-d565-44a5-a981-472cf1cef6fc): Found the correct vertices but cannot draw the parallelogram correctly.
-* [1.1.14.a](): Gave a wrong model for a clock hand's coordinate. With the wrong model, 3:00 will point upwards.
+* [1.1.11](https://chatgpt.com/share/1223a00c-d565-44a5-a981-472cf1cef6fc): (HARD) Found the correct vertices but cannot draw the parallelogram correctly.
+* [1.1.14.a](): (HARD) Gave a wrong model for a clock hand's coordinate. With the wrong model, 3:00 will point upwards.
 * [1.1.14.b](): Established θ_h = πh/6, but then calculated θ_2 = 2π/12.
-* Tested up to 1.1.14
+* [1.1.15](): (HARD) First failed to understand the problem, then understood the problem but modeled it using the wrong formula.
+* Tested up to 1.1.15
 
 # A Walk Through Combinatorics 5th edition by Miklós Bóna
 
