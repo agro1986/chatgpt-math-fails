@@ -1,6 +1,6 @@
 # User
 
-(IMAGE)
+![IMAGE](https://github.com/agro1986/chatgpt-math-fails/assets/6017531/bc26c8c5-1256-4841-99ef-11dee8688f27)
 
 a twelve clock vectors: all lengths = 1.
 
