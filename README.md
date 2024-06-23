@@ -29,7 +29,11 @@ However it turned out that I was the one having to correct and teach ChatGPT mat
 * [1.5.e](https://chatgpt.com/share/99392bf9-0405-4dc7-8b9d-a7514e170c3b): Correct answer, but wrong when explaining about the property of exponent to use
 * [1.8](https://chatgpt.com/share/bb445c4e-ffd7-41b6-a28d-65857d693dfe): States wrongly that if sqrt(n) = m for a composite n, then any non-trivial factor of n is less than or equal m. The correct qualifier should be "at least one of the factors"
 * [1.9.c](https://chatgpt.com/share/8c8112da-0de8-4365-b98c-8d9e5f12c44a): The final answer is correct, but it commits early into trying to prove the wrong statement so it goes into a long rambling before finally coming to the correct conclusion.
-* Tested up to 1.9
+* [1.11.a](https://chatgpt.com/share/8b670d2d-dfb0-4d08-bb02-79e946d8e9cd): Gives correct answer but wrong argument in 2 different places. "it contradicts the strictly increasing nature" should be "it contradicts the assumption that a_1 = 1". "Since a_3 must be defined as 6, our initial assumption breaks" is wrong, a_3 = 6 is consistent.
+* [1.11.b](https://chatgpt.com/share/8b670d2d-dfb0-4d08-bb02-79e946d8e9cd): Argument not thorough. Did a trial in the form of "For simplicity, let's assign the next smallest values" and it indeed works, but didn't argue that it was the only possible answer.
+* [1.11.c](https://chatgpt.com/share/8b670d2d-dfb0-4d08-bb02-79e946d8e9cd): (HARD) Logical jumps which derives a wrong formula, thus getting the wrong answer. Even after nudging, it still insists on the wrong answer.
+* [1.11.d](https://chatgpt.com/share/8b670d2d-dfb0-4d08-bb02-79e946d8e9cd): (HARD) Futile to ask because fails on 1.11.c which is a special case easier one.
+* Tested up to 1.11
 
 # Introduction to Linear Algebra 6th edition by Gilbert Strang
 
