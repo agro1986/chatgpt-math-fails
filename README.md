@@ -24,7 +24,7 @@ However it turned out that I was the one having to correct and teach ChatGPT mat
 
 ## Chapter 1 Exercises Solution Fail
 
-* [1.4](https://chatgpt.com/share/4c1c1419-97d4-469d-94ca-651db0a48586): ([FIXED IN o1-preview](https://chatgpt.com/share/66e3b81b-8e54-8012-861e-1b059bdfb9d6)) Thinking is correct but final conclusion not thorough. Says a → d and e, but doesn't realize that d and e each also implies the others
+* [1.4](https://chatgpt.com/share/4c1c1419-97d4-469d-94ca-651db0a48586): (FIXED IN [o1-preview](https://chatgpt.com/share/66e3b81b-8e54-8012-861e-1b059bdfb9d6) [o3](https://chatgpt.com/share/686f4ebb-6380-8012-8868-57e00f68facd) [Gemini 2.5 Pro](https://g.co/gemini/share/91581b0832eb) [Sonnet 4 Deep Think](https://claude.ai/share/98cd6e2a-0989-4462-a431-1b5fa7296907) [Grok 4](https://grok.com/share/bGVnYWN5_2b36d9a9-b4e7-4ea0-95ef-baf9d7d154bf)) Thinking is correct but final conclusion not thorough. Says a → d and e, but doesn't realize that d and e each also implies the others
 * [1.5.a](https://chatgpt.com/share/6ce350be-d4be-4bb7-8eb0-4e7cbc5a341b): ([FIXED IN o1-pro](https://chatgpt.com/share/678d1755-37ac-8012-9e6b-d8f362585103)) Wrongly interpreted A only if B as B → A, even though it should be A → B
 * [1.5.e](https://chatgpt.com/share/99392bf9-0405-4dc7-8b9d-a7514e170c3b): Correct answer, but wrong when explaining about the property of exponent to use
 * [1.8](https://chatgpt.com/share/bb445c4e-ffd7-41b6-a28d-65857d693dfe): States wrongly that if sqrt(n) = m for a composite n, then any non-trivial factor of n is less than or equal m. The correct qualifier should be "at least one of the factors"
