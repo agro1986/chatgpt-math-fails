@@ -52,7 +52,7 @@ However it turned out that I was the one having to correct and teach ChatGPT mat
 
 ## Chapter 1 Quick Check Solution Fail
 
-* [1.1.3](https://chatgpt.com/share/0293c1c3-e8e3-498f-a700-03c09eea7112): (Solved by [GPT-5 Pro](https://chatgpt.com/share/68a15dc6-0a10-8012-b751-711f023c5e25](https://chatgpt.com/share/68a1605d-bed4-8012-8144-fd0eadb9d6d1)) Brings up the pidgeonhole principle while the setup has pidgeons < holes.
+* [1.1.3](https://chatgpt.com/share/0293c1c3-e8e3-498f-a700-03c09eea7112): (Solved by [GPT-5 Pro](https://chatgpt.com/share/68a1605d-bed4-8012-8144-fd0eadb9d6d1)) Brings up the pidgeonhole principle while the setup has pidgeons < holes.
 * Tested up to 1.1.3
 
 ## Chapter 1 Exercises Solution Fail
